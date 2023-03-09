@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Royfagon
 - 👀 I’m interested in robotics and AI
-- 🌱 I’m currently learning advanced SQL
+- 🌱 I’m currently learning advanced SQL, JAVA and Ruby Rails
 - 💞️ I’m looking to collaborate on all k,inds of stuff
 - 📫 How to reach me roy.fagon@googlemail.com
 
